@@ -10,7 +10,8 @@ George Mason University
   - SQL
   - R
   - Familiar with Matlab
-# Visualizations : PowerBI
+# Visualizations 
+  -PowerBI
 
 # Other Tools
   - MS Office (Excel, Word, Powerpoint)
